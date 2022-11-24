@@ -12,3 +12,5 @@ asdnsalkdvnlakdsv
 dnvlsnvla
 
 ## how to contri
+
+added a copyright section
